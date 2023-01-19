@@ -1,0 +1,6 @@
+framework module Pods_Clevertap_ios_rich_push {
+  umbrella header "Pods-Clevertap-ios-rich_push-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_Clevertap_ios_NotificationContent {
+  umbrella header "Pods-Clevertap-ios-NotificationContent-umbrella.h"
+
+  export *
+  module * { export * }
+}
